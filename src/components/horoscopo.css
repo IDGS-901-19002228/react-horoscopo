@@ -1,0 +1,29 @@
+/* horoscopo.css */
+
+.horoscopo-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .horoscopo-card img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .horoscopo-card h2 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  .horoscopo-card p.date {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
